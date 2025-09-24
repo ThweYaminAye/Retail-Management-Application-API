@@ -1,0 +1,202 @@
+[
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.EmployeesController",
+    "Method": "AddNewUser",
+    "RelativePath": "api/Employees/AddNewUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newuser",
+        "Type": "MODEL.DTO.UserInfoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.EmployeesController",
+    "Method": "GetEmployeeByCompanyID",
+    "RelativePath": "api/Employees/GetEmployeeByCompanyID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.EmployeesController",
+    "Method": "Login",
+    "RelativePath": "api/Employees/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginInput",
+        "Type": "MODEL.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.FilesController",
+    "Method": "UploadFile",
+    "RelativePath": "api/Files/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.ProductsController",
+    "Method": "AddNewProduct",
+    "RelativePath": "api/Products/AddNewProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pd",
+        "Type": "MODEL.DTO.ProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.ProductsController",
+    "Method": "DeleteProductById",
+    "RelativePath": "api/Products/DeleteProductById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.ProductsController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Products/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.ProductsController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Products/GetProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.ProductsController",
+    "Method": "UpdateProductById",
+    "RelativePath": "api/Products/UpdateProductById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "pd",
+        "Type": "MODEL.DTO.ProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.SalesController",
+    "Method": "BuyProducts",
+    "RelativePath": "api/Sales/BuyProducts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "quantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.SalesController",
+    "Method": "SalesByDate",
+    "RelativePath": "api/Sales/SalesByDate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.SalesController",
+    "Method": "TotalSummary",
+    "RelativePath": "api/Sales/TotalSummary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RetailManagementAPI.Controllers.SalesController",
+    "Method": "ViewSalesReport",
+    "RelativePath": "api/Sales/ViewSalesReport",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{815B52ED-88E1-4526-BB89-9109F711D012}|BAL\\BAL.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\bal\\service\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815B52ED-88E1-4526-BB89-9109F711D012}|BAL\\BAL.csproj|solutionrelative:bal\\service\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\retailmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|solutionrelative:retailmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\retailmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|solutionrelative:retailmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58DDD6D-8C64-474B-96E2-923AFD55E161}|REPOSITORY\\REPOSITORY.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\repository\\irepository\\ifilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58DDD6D-8C64-474B-96E2-923AFD55E161}|REPOSITORY\\REPOSITORY.csproj|solutionrelative:repository\\irepository\\ifilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58DDD6D-8C64-474B-96E2-923AFD55E161}|REPOSITORY\\REPOSITORY.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\repository\\repository\\filesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58DDD6D-8C64-474B-96E2-923AFD55E161}|REPOSITORY\\REPOSITORY.csproj|solutionrelative:repository\\repository\\filesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\retailmanagementapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|solutionrelative:retailmanagementapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9711BF2-F2CA-4730-AA00-84F2D4237C4C}|MODEL\\MODEL.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\model\\commonconfig\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9711BF2-F2CA-4730-AA00-84F2D4237C4C}|MODEL\\MODEL.csproj|solutionrelative:model\\commonconfig\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\retailmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{842009AA-4B8F-4969-B4B5-E09D54D77146}|RetailManagementAPI\\RetailManagementAPI.csproj|solutionrelative:retailmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9711BF2-F2CA-4730-AA00-84F2D4237C4C}|MODEL\\MODEL.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9711BF2-F2CA-4730-AA00-84F2D4237C4C}|MODEL\\MODEL.csproj|solutionrelative:model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815B52ED-88E1-4526-BB89-9109F711D012}|BAL\\BAL.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\bal\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815B52ED-88E1-4526-BB89-9109F711D012}|BAL\\BAL.csproj|solutionrelative:bal\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58DDD6D-8C64-474B-96E2-923AFD55E161}|REPOSITORY\\REPOSITORY.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58DDD6D-8C64-474B-96E2-923AFD55E161}|REPOSITORY\\REPOSITORY.csproj|solutionrelative:repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815B52ED-88E1-4526-BB89-9109F711D012}|BAL\\BAL.csproj|c:\\users\\user\\source\\repos\\retailmanagementapi\\bal\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815B52ED-88E1-4526-BB89-9109F711D012}|BAL\\BAL.csproj|solutionrelative:bal\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFilesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\REPOSITORY\\IRepository\\IFilesRepository.cs",
+              "RelativeDocumentMoniker": "REPOSITORY\\IRepository\\IFilesRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\REPOSITORY\\IRepository\\IFilesRepository.cs",
+              "RelativeToolTip": "REPOSITORY\\IRepository\\IFilesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:25:28.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\REPOSITORY\\Repository\\FilesRepository.cs",
+              "RelativeDocumentMoniker": "REPOSITORY\\Repository\\FilesRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\REPOSITORY\\Repository\\FilesRepository.cs",
+              "RelativeToolTip": "REPOSITORY\\Repository\\FilesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:25:16.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\MODEL\\CommonConfig\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MODEL\\CommonConfig\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\MODEL\\CommonConfig\\AppSettings.cs",
+              "RelativeToolTip": "MODEL\\CommonConfig\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:24:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RetailManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\appsettings.json",
+              "RelativeToolTip": "RetailManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T04:23:25.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilesService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\BAL\\Service\\FilesService.cs",
+              "RelativeDocumentMoniker": "BAL\\Service\\FilesService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\BAL\\Service\\FilesService.cs",
+              "RelativeToolTip": "BAL\\Service\\FilesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:19:24.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "RetailManagementAPI\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "RetailManagementAPI\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:18:51.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RetailManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\Program.cs",
+              "RelativeToolTip": "RetailManagementAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:29:54.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RetailManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\RetailManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RetailManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T09:22:05.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\BAL\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "BAL\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\BAL\\ServiceManager.cs",
+              "RelativeToolTip": "BAL\\ServiceManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:50:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\BAL\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BAL\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\BAL\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "BAL\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowKYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:42:13.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\REPOSITORY\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "REPOSITORY\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\REPOSITORY\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "REPOSITORY\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA2wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:17:05.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\MODEL\\DataContext.cs",
+              "RelativeDocumentMoniker": "MODEL\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RetailManagementAPI\\MODEL\\DataContext.cs",
+              "RelativeToolTip": "MODEL\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:46:50.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

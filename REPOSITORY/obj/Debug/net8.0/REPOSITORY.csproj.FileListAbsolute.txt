@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\bin\Debug\net8.0\REPOSITORY.deps.json
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\bin\Debug\net8.0\REPOSITORY.dll
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\bin\Debug\net8.0\REPOSITORY.pdb
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\bin\Debug\net8.0\MODEL.dll
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\bin\Debug\net8.0\MODEL.pdb
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.AssemblyInfo.cs
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.csproj.Up2Date
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.dll
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\refint\REPOSITORY.dll
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\REPOSITORY.pdb
+C:\Users\User\source\repos\RetailManagementAPI\REPOSITORY\obj\Debug\net8.0\ref\REPOSITORY.dll
